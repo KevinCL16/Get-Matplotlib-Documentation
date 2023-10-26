@@ -1,0 +1,2822 @@
+[
+    {
+        "url": "https://matplotlib.org/stable/api/matplotlib_configuration_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/afm_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/animation_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.Animation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FuncAnimation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.ArtistAnimation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.PillowWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.HTMLWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FFMpegWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.ImageMagickWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FFMpegFileWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.ImageMagickFileWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.Animation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.TimedAnimation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.MovieWriterRegistry.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.AbstractMovieWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.MovieWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FileMovieWriter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FFMpegBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.ImageMagickBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/artist_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.add_callback.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.remove_callback.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.pchanged.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_cursor_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.format_cursor_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_mouseover.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_mouseover.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.mouseover.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.contains.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.pick.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.pickable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_picker.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_picker.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_clip_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_clip_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_clip_box.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_clip_box.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_clip_path.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_clip_path.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.update.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.update_from.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.properties.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.draw.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_animated.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_animated.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_alpha.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_alpha.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_snap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_snap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_visible.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_visible.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_agg_filter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_sketch_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_sketch_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_rasterized.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_rasterized.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_path_effects.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_path_effects.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_agg_filter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_window_extent.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_tightbbox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_transformed_clip_path_and_affine.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.remove.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_figure.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_figure.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_children.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.findobj.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.is_transform_set.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.convert_xunits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.convert_yunits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.have_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_gid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_gid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_label.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_label.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_url.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_url.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.sticky_edges.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.set_in_layout.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.get_in_layout.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.Artist.stale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.allow_rasterization.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.get.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.getp.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.setp.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.kwdoc.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.artist.ArtistInspector.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/axes_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.plot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.errorbar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.scatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.plot_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.step.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.loglog.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.semilogx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.semilogy.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.fill_between.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.fill_betweenx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.bar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.barh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.bar_label.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.stem.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.eventplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.pie.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.stackplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.broken_barh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.vlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.fill.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhspan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axvline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axvspan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.acorr.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.angle_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.cohere.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.csd.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.magnitude_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.phase_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.psd.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.specgram.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.xcorr.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.ecdf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.violinplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.bxp.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.violin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hexbin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.hist2d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.stairs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.clabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.contour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.contourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.imshow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.matshow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.pcolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.pcolorfast.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.pcolormesh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.spy.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.tripcolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.triplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.tricontour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.tricontourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.annotate.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.table.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.arrow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.inset_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.indicate_inset.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.indicate_inset_zoom.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.secondary_xaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.secondary_yaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.barbs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.quiver.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.quiverkey.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.streamplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.cla.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.clear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_axis_off.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_axis_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_frame_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_frame_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_axisbelow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_axisbelow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_facecolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_facecolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_prop_cycle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.invert_xaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.xaxis_inverted.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.invert_yaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.yaxis_inverted.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_ylim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_ylim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.update_datalim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xbound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xbound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_ybound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_ybound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xlabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xlabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_ylabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_ylabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.label_outer.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_title.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_title.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.legend.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_legend.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_legend_handles_labels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_yscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.use_sticky_edges.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.margins.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xmargin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_ymargin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.relim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.autoscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.autoscale_view.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_autoscale_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_autoscale_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_autoscalex_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_autoscalex_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_autoscaley_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_autoscaley_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.apply_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_box_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_box_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_adjustable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_adjustable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xmajorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xminorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xgridlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.xaxis_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_yticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_yticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_ymajorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yminorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_ygridlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.yaxis_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.minorticks_off.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.minorticks_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.ticklabel_format.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.tick_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.locator_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.convert_xunits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.convert_yunits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.have_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_artist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_child_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_collection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_container.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_image.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_line.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_patch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_table.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twinx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twiny.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.sharex.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.sharey.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_shared_x_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_shared_y_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_anchor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_anchor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_axes_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_axes_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_subplotspec.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_subplotspec.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.reset_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.stale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.pchanged.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.add_callback.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.remove_callback.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.can_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.can_zoom.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_navigate.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_navigate.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_navigate_mode.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_navigate_mode.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.start_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.drag_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.end_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.format_coord.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.format_cursor_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.format_xdata.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.format_ydata.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.mouseover.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.in_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.contains.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.contains_point.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_cursor_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_children.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_images.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_lines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.findobj.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.draw.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.draw_artist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.redraw_in_frame.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_rasterization_zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_rasterization_zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_window_extent.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_tightbbox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.name.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xaxis_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yaxis_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_data_ratio.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xaxis_text1_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_xaxis_text2_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yaxis_text1_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_yaxis_text2_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.zorder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_default_bbox_extra_artists.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.get_transformed_clip_path_and_affine.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.has_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/axis_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.clear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_scale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_major_formatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_major_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minor_formatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minor_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_formatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_minor_formatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_minor_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.remove_overlapping_locs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_remove_overlapping_locs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_remove_overlapping_locs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_label_coords.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_label_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_label_text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_label.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_label_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_label_text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_major_ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_majorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_majorticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_majorticklocs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minor_ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minorticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minorticklocs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_offset_text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_tick_padding.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_tick_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_ticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_ticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_ticklocs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_gridlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_tick_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.axis_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_data_interval.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_view_interval.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_inverted.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_data_interval.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_view_interval.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_inverted.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_minpos.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_tick_space.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_tightbbox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.contains.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.pickradius.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_pickradius.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_pickradius.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.convert_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.get_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.update_units.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.axis_name.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.get_ticks_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.set_ticks_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.set_label_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.tick_bottom.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.XAxis.tick_top.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.axis_name.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.get_ticks_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.set_offset_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.set_ticks_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.set_label_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.tick_left.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.YAxis.tick_right.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.OFFSETTEXTPAD.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.limit_range_for_scale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.reset_ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_default_intervals.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_ticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.get_loc.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.get_pad.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.get_tick_padding.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.get_tickdir.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.get_view_interval.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.set_label1.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.set_label2.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.set_pad.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.set_url.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Tick.update_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_bases_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_managers_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_tools_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/index_backend_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_mixed_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_template_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_agg_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_cairo_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_gtk3_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_gtk4_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_nbagg_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_pdf_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_pgf_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_ps_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_qt_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_svg_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_tk_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_webagg_core_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_webagg_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/backend_wx_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/bezier_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/category_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/cbook_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/cm_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/collections_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/colorbar_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/colors_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.Normalize.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.NoNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.AsinhNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.BoundaryNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.CenteredNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.FuncNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.LogNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.PowerNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.SymLogNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.TwoSlopeNorm.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.Colormap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.LinearSegmentedColormap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.ListedColormap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.ColorSequenceRegistry.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.LightSource.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.from_levels_and_colors.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.hsv_to_rgb.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.rgb_to_hsv.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.to_hex.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.to_rgb.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.to_rgba.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.to_rgba_array.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.is_color_like.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.same_color.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.get_named_colors_mapping.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.make_norm_from_scale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/container_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/contour_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/dates_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/docstring_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/dviread.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/figure_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/font_manager_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/ft2font.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/gridspec_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.gridspec.GridSpec.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.gridspec.SubplotSpec.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.gridspec.GridSpecBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.gridspec.GridSpecFromSubplotSpec.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/hatch_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/image_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/layout_engine_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/legend_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/legend_handler_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/lines_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.lines.Line2D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.lines.VertexSelector.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.lines.AxLine.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.lines.segment_hits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/markers_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.markers.MarkerStyle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/mathtext_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/mlab_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/offsetbox_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/patches_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Annulus.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Arc.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Arrow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.ArrowStyle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.BoxStyle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Circle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.CirclePolygon.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.ConnectionPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.ConnectionStyle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Ellipse.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.FancyArrow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.FancyArrowPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.FancyBboxPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Patch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.PathPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.StepPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Polygon.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Rectangle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.RegularPolygon.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Shadow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Wedge.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.bbox_artist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.draw_bbox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/path_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/patheffects_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/pyplot_summary.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.cla.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.clf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.close.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.delaxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.fignum_exists.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.gca.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.gcf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.get_figlabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.get_fignums.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.sca.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot2grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot_mosaic.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.twinx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.twiny.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.step.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.loglog.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.semilogx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.semilogy.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.fill_between.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.fill_betweenx.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.barh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar_label.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stem.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.eventplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stackplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.broken_barh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.vlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.fill.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.polar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axhline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axhspan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axvline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axvspan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axline.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.acorr.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.angle_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.cohere.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.csd.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.magnitude_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.phase_spectrum.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.psd.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.specgram.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xcorr.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ecdf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.violinplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hexbin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist2d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stairs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.clabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.contour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.contourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.matshow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pcolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pcolormesh.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.spy.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figimage.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.triplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tripcolor.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tricontour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tricontourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figtext.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.table.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.arrow.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figlegend.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.barbs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.quiver.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.quiverkey.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.streamplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.autoscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.box.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.locator_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.minorticks_off.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.minorticks_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rgrids.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.thetagrids.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tick_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ticklabel_format.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xlabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ylabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ylim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.yscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.yticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.suptitle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.title.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.margins.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots_adjust.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot_tool.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.clim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.colorbar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.gci.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.sci.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.get_cmap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.set_cmap.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imread.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imsave.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rc.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rc_context.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.rcdefaults.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.draw.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.draw_if_interactive.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ioff.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ion.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.install_repl_displayhook.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.isinteractive.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pause.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.savefig.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.switch_backend.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.uninstall_repl_displayhook.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.connect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.disconnect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.findobj.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.get.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.getp.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.get_current_fig_manager.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.ginput.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.new_figure_manager.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.set_loglevel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.setp.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.waitforbuttonpress.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xkcd.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/projections_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/projections/polar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/projections/geo.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/quiver_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.quiver.Quiver.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.quiver.QuiverKey.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/matplotlib.quiver.Barbs.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/rcsetup_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/sankey_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/scale_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/sphinxext_mathmpl_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/sphinxext_plot_directive_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/sphinxext_figmpl_directive_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/spines_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/style_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/table_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/testing_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/text_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/texmanager_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/ticker_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/tight_bbox_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/tight_layout_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/transformations.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/tri_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/type1font.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/typing_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/units_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/widgets_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_api_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_enums_api.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/mplot3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/mplot3d/faq.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/mplot3d/view_angles.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/mplot3d/axes3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.plot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.scatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.bar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.bar3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.plot_surface.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.plot_wireframe.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.plot_trisurf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.clabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.contour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.tricontour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.contourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.tricontourf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.quiver.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.voxels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.errorbar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.stem.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.text.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.text2D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.clear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_axis_off.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_axis_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_xlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_ylim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_w_lims.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.invert_zaxis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.zaxis_inverted.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zbound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zbound.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zlabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_title.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_xscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_yscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zmargin.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.margins.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.autoscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.autoscale_view.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_autoscalez_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_autoscalez_on.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.auto_scale_xyz.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_box_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.apply_aspect.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.tick_params.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zticklines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zgridlines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zminorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_zmajorticklabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.zaxis_date.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.convert_zunits.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.add_collection3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.sharez.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.shareview.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.can_zoom.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.can_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.disable_mouse_rotation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.mouse_init.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.drag_pan.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.format_zdata.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.format_coord.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.view_init.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_proj_type.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_proj.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_top_view.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.draw.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_tightbbox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlim3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.stem3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.text3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.tunit_cube.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.tunit_edges.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.unit_cube.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.get_axis_position.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.add_contour_set.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.add_contourf_set.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.Axes3D.update_datalim.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axes3d.get_test_data.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.axis3d.Axis.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Line3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Line3DCollection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Patch3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Patch3DCollection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Path3DCollection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.PathPatch3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Poly3DCollection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.Text3D.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.get_dir_vector.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.juggle_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.line_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.line_collection_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.patch_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.patch_collection_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.pathpatch_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.poly_collection_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.rotate_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.art3d.text_2d_to_3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.inv_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.persp_transformation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.proj_points.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.proj_trans_points.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.proj_transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.proj_transform_clip.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.rot_x.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.transform.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.view_transformation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.mplot3d.proj3d.world_transformation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/axes_grid1.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.AnchoredAuxTransformBox.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.AnchoredDirectionArrows.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.AnchoredDrawingArea.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.AnchoredEllipse.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.anchored_artists.AnchoredSizeBar.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.AxesDivider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.AxesLocator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.Divider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.HBoxDivider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.SubplotDivider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.VBoxDivider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.make_axes_area_auto_adjustable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_divider.make_axes_locatable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_grid.AxesGrid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_grid.CbarAxesBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_grid.Grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_grid.ImageGrid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_rgb.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_rgb.RGBAxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_rgb.make_rgb_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.Add.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.AxesX.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.AxesY.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.Fixed.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.Fraction.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.MaxExtent.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.MaxHeight.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.MaxWidth.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.Scalable.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.Scaled.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.axes_size.from_any.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.AnchoredLocatorBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.AnchoredSizeLocator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.AnchoredZoomLocator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.BboxConnector.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.BboxConnectorPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.BboxPatch.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.InsetPosition.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.inset_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.mark_inset.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.inset_locator.zoomed_inset_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.mpl_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.mpl_axes.Axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.mpl_axes.SimpleAxisArtist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.mpl_axes.SimpleChainedObjects.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.HostAxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.HostAxesBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.ParasiteAxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.ParasiteAxesBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.SubplotHost.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.host_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.host_axes_class_factory.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.host_subplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.host_subplot_class_factory.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axes_grid1.parasite_axes.parasite_axes_class_factory.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/toolkits/axisartist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.ExtremeFinderCycle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.FormatterDMS.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.FormatterHMS.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorD.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorDM.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorDMS.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorH.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorHM.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.LocatorHMS.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step24.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step360.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step_degree.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step_hour.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.angle_helper.select_step_sub.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_divider.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_grid.AxesGrid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_grid.Grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_grid.ImageGrid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_rgb.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axes_rgb.RGBAxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.AttributeCopier.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.AxisArtist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.AxisLabel.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.GridlinesCollection.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.LabelBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.TickLabels.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axis_artist.Ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axisline_style.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axisline_style.AxislineStyle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.Axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.AxesZero.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.AxisArtistHelper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.AxisArtistHelperRectlinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.FixedAxisArtistHelperRectilinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.FloatingAxisArtistHelperRectilinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.GridHelperBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.GridHelperRectlinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.Subplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.axislines.SubplotZero.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.ExtremeFinderFixed.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.FixedAxisArtistHelper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.FloatingAxes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.FloatingAxesBase.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.FloatingAxisArtistHelper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.FloatingSubplot.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.GridHelperCurveLinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.floating_axes.floatingaxes_class_factory.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.DictFormatter.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.ExtremeFinderSimple.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.FixedLocator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.FormatterPrettyPrint.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.GridFinder.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_finder.MaxNLocator.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_helper_curvelinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_helper_curvelinear.FixedAxisArtistHelper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_helper_curvelinear.FloatingAxisArtistHelper.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.grid_helper_curvelinear.GridHelperCurveLinear.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/_as_gen/mpl_toolkits.axisartist.parasite_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/api/pylab.html"
+    }
+]

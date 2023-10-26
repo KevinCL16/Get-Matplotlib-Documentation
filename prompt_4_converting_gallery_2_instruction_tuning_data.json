@@ -1,0 +1,18 @@
+[
+  {
+    "title": "hlines and vlines.",
+    "text": "This example showcases the functions hlines and vlines.",
+    "code": "import matplotlib.pyplot as plt\nimport numpy as np\n\n# Fixing random state for reproducibility\nnp.random.seed(20230930)\n\nt = np.arange(0.0, 10.0, 0.2)\ns = np.exp(-t) + np.sin(2 * np.pi * t) + 1\nnse = np.random.normal(0.0, 0.5, t.shape) * s\n\nfig, (vax, hax) = plt.subplots(1, 2, figsize=(12, 6))\n\nvax.plot(t, s + nse, '^')\nvax.vlines(t, [0], s)\n# By using ``transform=vax.get_xaxis_transform()`` the y coordinates are scaled\n# such that 0 maps to the bottom of the axes and 1 to the top.\nvax.vlines([1, 2], 0, 1, transform=vax.get_xaxis_transform(), colors='r')\nvax.set_xlabel('time (s)')\nvax.set_title('Vertical lines demo')\n\nhax.plot(s + nse, t, '^')\nhax.hlines(t, [0], s, lw=2)\nhax.set_xlabel('time (s)')\nhax.set_title('Horizontal lines demo')\n\nplt.show()\n",
+    "DATA": "np.random.seed(20230930)\n\nt = np.arange(0.0, 10.0, 0.2)\ns = np.exp(-t) + np.sin(2 * np.pi * t) + 1\nnse = np.random.normal(0.0, 0.5, t.shape) * s",
+    "INSTRUCTION": "Use the following functions from matplotlib: hlines and vlines, to create two plots: a vertical lines demo plot and a horizontal lines demo plot. Use the following data to create the plots: np.random.seed(20230930), t = np.arange(0.0, 10.0, 0.2), s = np.exp(-t) + np.sin(2 * np.pi * t) + 1, nse = np.random.normal(0.0, 0.5, t.shape) * s. ",
+    "id": 0
+  },
+  {
+    "title": "Stacked bar chart.",
+    "text": "This is an example of creating a stacked bar plot using bar.",
+    "code": "import matplotlib.pyplot as plt\nimport numpy as np\n\n# data from https://allisonhorst.github.io/palmerpenguins/\n\nspecies = (\n    'Adelie\\\n $\\\\\\\\mu=$3700.66g',\n    'Chinstrap\\\n $\\\\\\\\mu=$3733.09g',\n    'Gentoo\\\n $\\\\\\\\mu=5076.02g$',\n)\nweight_counts = {\n    'Below': np.array([70, 31, 58]),\n    'Above': np.array([82, 37, 66]),\n}\nwidth = 0.5\n\nfig, ax = plt.subplots()\nbottom = np.zeros(3)\n\nfor boolean, weight_count in weight_counts.items():\n    p = ax.bar(species, weight_count, width, label=boolean, bottom=bottom)\n    bottom += weight_count\n\nax.set_title('Number of penguins with above average body mass')\nax.legend(loc='upper right')\n\nplt.show()\n",
+    "DATA": "species = ( \"Adeleii $\\mu=$2805.45g\", \"Chingstopy $\\mu=$2961.34g\", \"RrtooDetoo\\n $\\mu=4237.51g$\")\nweight_counts = { \"Below\": np.array([60, 41, 78]), \"Above\": np.array([92, 77, 59])}",
+    "INSTRUCTION": "Create a stacked bar chart using matplotlib. Use the following data to plot it: species = ( \"Adeleii $\\mu=$2805.45g\", \"Chingstopy $\\mu=$2961.34g\", \"RrtooDetoo\\n $\\mu=4237.51g$\"), weight_counts = { \"Below\": np.array([60, 41, 78]), \"Above\": np.array([92, 77, 59])}. ",
+    "id": 1
+  }
+]

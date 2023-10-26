@@ -1,0 +1,164 @@
+[
+    {
+        "url": "https://matplotlib.org/stable/users/explain/#"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/../faq.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/figure_intro.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/backends.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/api_interfaces.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/interactive.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/interactive_guide.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/event_handling.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/figure/writing_a_backend_pyplot_interface.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/axes_intro.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/arranging_axes.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/colorbar_placement.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/autoscale.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/axes_scales.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/axes_ticks.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/legend_guide.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/mosaic.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/constrainedlayout_guide.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/axes/tight_layout_guide.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/artist_intro.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/color_cycle.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/performance.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/paths.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/patheffects_guide.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/imshow_extent.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/artists/transforms_tutorial.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/customizing.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/colors.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/colorbar_only.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/colormap-manipulation.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/colormapnorms.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/colors/colormaps.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/text_intro.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/text_props.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/annotations.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/fonts.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/mathtext.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/pgf.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/text/usetex.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/animations/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/animations/animations.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/animations/blitting.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/toolkits/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/toolkits/axisartist.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/toolkits/axes_grid.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/toolkits/mplot3d.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/../getting_started/index.html"
+    },
+    {
+        "url": "https://matplotlib.org/stable/users/explain/../installing/index.html"
+    }
+]

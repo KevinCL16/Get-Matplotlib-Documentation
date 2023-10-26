@@ -1,0 +1,1142 @@
+[
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_colors.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_stacked.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/barh.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/broken_barh.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/capstyle.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/cohere.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/csd_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/errorbar_subsample.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/eventcollection_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/eventplot_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/gradient_bar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/hat_graph.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/horizontal_barchart_distribution.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/joinstyle.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/line_demo_dash_control.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/lines_with_ticks_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/masked_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/multicolored_line.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/multivariate_marker_plot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_demo2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_masked.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_star_poly.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/simple_plot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/span_regions.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/spectrum_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/vline_hline_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/lines_bars_and_markers/xcorr_acorr_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/affine_image.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/barcode_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/colormap_interactive_adjustment.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_corner_mask.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_image.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/contourf_log.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/contours_in_optimization_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/demo_bboximage.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/figimage_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/image_clip_path.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/image_masked.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/image_nonuniform.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/image_zcoord.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/interpolation_methods.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/irregulardatagrid.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/layer_images.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/matshow.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/multi_image.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/plot_streamplot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/quadmesh_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/quiver_simple_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/shading_example.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/specgram_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/spy_demos.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/tricontour_smooth_delaunay.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/tricontour_smooth_user.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/trigradient_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/triinterp_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/images_contours_and_fields/watermark_image.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/align_labels_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/auto_subplots_adjust.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axes_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axes_props.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axes_zoom_effect.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axhspan_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axis_equal_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/axis_labels_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/broken_axis.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/custom_figure_class.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/fahrenheit_celsius_scales.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/ganged_plots.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/gridspec_and_subplots.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/gridspec_multicolumn.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/gridspec_nested.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/invert_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/share_axis_lims_views.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_adjust.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/subplots_axes_and_figures/zoom_inset_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/barchart_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/boxplot_color.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/customized_violin.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/errorbar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/errorbar_features.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/errorbar_limits.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/errorbars_and_boxes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/hexbin_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/histogram_cumulative.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/histogram_features.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/histogram_histtypes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/histogram_multihist.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/multiple_histograms_side_by_side.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/statistics/violinplot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pie_and_polar_charts/bar_of_pie.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pie_and_polar_charts/polar_bar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pie_and_polar_charts/polar_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pie_and_polar_charts/polar_legend.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/angles_on_bracket_arrows.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/annotate_transform.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/annotation_basic.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/annotation_polar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/arrow_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/autowrap.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/date.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/demo_annotation_box.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/demo_text_path.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/demo_text_rotation_mode.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/dfrac_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/engineering_formatter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/fancyarrow_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/fancytextbox_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/font_file.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/fonts_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/fonts_demo_kw.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/legend.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/line_with_text.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/mathtext_asarray.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/mathtext_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/mathtext_fontfamily_example.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/multiline.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/placing_text_boxes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/rainbow_text.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/stix_fonts_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/text_alignment.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/text_commands.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/text_fontdict.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/text_rotation_relative_to_line.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/unicode_minus.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/usetex_baseline_test.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/usetex_fonteffects.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/text_labels_and_annotations/watermark_text.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/color/color_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/color/color_by_yvalue.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/color/color_cycle_default.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/color/colorbar_basics.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/color/set_alpha.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/artist_reference.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/collections.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/compound_path.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/dolphin.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/donut.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/ellipse_arrow.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/ellipse_collection.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/ellipse_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/hatch_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/patch_collection.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/path_patch.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/quad_bezier.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/shapes_and_collections/scatter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/bmh.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/dark_background.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/fivethirtyeight.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/ggplot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/grayscale.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/style_sheets/plot_solarizedlight2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pyplots/pyplot_simple.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pyplots/pyplot_text.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pyplots/pyplot_three.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/pyplots/pyplot_two_subplots.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_anchored_direction_arrows.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_axes_divider.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_axes_grid.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_axes_grid2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_axes_rgb.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_colorbar_of_inset_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_colorbar_with_axes_divider.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_colorbar_with_inset_locator.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_edge_colorbar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/demo_imagegrid_aspect.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/inset_locator_demo2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/parasite_simple.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/parasite_simple2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/scatter_hist_locatable_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_anchored_artists.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_axes_divider3.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_axesgrid.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_axesgrid2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_axisline4.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axes_grid1/simple_colorbar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/axis_direction.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_axis_direction.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_axisline_style.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_curvelinear_grid.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_curvelinear_grid2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_floating_axis.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_parasite_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_parasite_axes2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_ticklabel_alignment.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/demo_ticklabel_direction.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axis_direction01.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axis_direction03.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axis_pad.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axisartist1.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axisline.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/axisartist/simple_axisline3.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/showcase/anatomy.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/showcase/firefox.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/showcase/integral.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/showcase/mandelbrot.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/showcase/stock_prices.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/animate_decay.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/animation_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/bayes_update.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/double_pendulum.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/dynamic_image.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/frame_grabbing_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/multiple_axes.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/pause_resume.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/rain.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/random_walk.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/simple_anim.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/simple_scatter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/strip_chart.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/animation/unchained.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/close_event.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/coords_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/data_browser.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/figure_axes_enter_leave.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/image_slices_viewer.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/keypress_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/lasso_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/legend_picking.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/looking_glass.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/path_editor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/pick_event_demo2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/poly_editor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/pong_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/resample.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/timers.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/trifinder_event_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/viewlims.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/event_handling/zoom_window.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/anchored_artists.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/bbox_intersect.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/coords_report.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/custom_projection.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/demo_agg_filter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/demo_ribbon_box.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/fig_x.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/fill_spiral.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/findobj_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/image_thumbnail_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/keyword_plotting.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/multipage_pdf.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/packed_bubbles.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/patheffect_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/print_stdout_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/table_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/misc/transoffset.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/2dcollections3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/3d_bars.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/bars3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/box3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/contour3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/contour3d_2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/contour3d_3.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/contourf3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/contourf3d_2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/custom_shaded_3d_surface.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/errorbar3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/hist3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/lines3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/lorenz_attractor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/mixed_subplots.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/offset.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/pathpatch3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/polys3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/projections.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/quiver3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/rotate_axes3d_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/scatter3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/subplot3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/surface3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/surface3d_2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/surface3d_3.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/surface3d_radial.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/text3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/tricontour3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/tricontourf3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/trisurf3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/trisurf3d_2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/view_planes_3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/voxels.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/voxels_numpy_logo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/voxels_rgb.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/voxels_torus.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/wire3d.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/wire3d_animation_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/mplot3d/wire3d_zero_stride.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/aspect_loglog.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/custom_scale.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/log_bar.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/log_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/logit_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/power_norm.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/scales.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/semilogx_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/scales/symlog_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/advanced_hillshading.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/hinton_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/ishikawa_diagram.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/leftventricle_bullseye.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/mri_with_eeg.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/radar_chart.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/sankey_links.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/sankey_rankine.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/skewt.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/specialty_plots/topographic_hillshading.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/spines/spines.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/spines/spines_dropped.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/spines/multiple_yaxis_with_spines.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/spines/centered_spines_with_arrows.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/custom_ticker1.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/date_demo_convert.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/date_demo_rrule.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/dollar_ticks.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/scalarformatter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/tick-formatters.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/tick-locators.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/tick_label_right.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/tick_labels_from_values.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/ticks/ticklabels_rotation.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/annotate_with_units.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/artist_tests.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/bar_demo2.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/bar_unit_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/basic_units.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/evans_test.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/radian_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/units_sample.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/units/units_scatter.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/canvasagg.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_gtk3_panzoom_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_gtk3_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_gtk4_panzoom_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_gtk4_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_qt_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_tk_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_wx2_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_wx3_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_wx4_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_wx5_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/embedding_webagg_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/fourier_demo_wx_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/gtk3_spreadsheet_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/gtk4_spreadsheet_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/mathtext_wx_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/mpl_with_glade3_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/mplcvd.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/pylab_with_gtk3_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/pylab_with_gtk4_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/svg_histogram_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/svg_tooltip_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/toolmanager_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/user_interfaces/wxcursor_demo_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/buttons.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/check_buttons.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/cursor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/lasso_selector_demo_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/menu.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/mouse_cursor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/multicursor.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/radio_buttons.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/range_slider.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/rectangle_selector.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/slider_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/slider_snap_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/span_selector.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/widgets/textbox.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/annotate_explain.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/annotate_text_arrow.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/connectionstyle_demo.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/demo_gridspec01.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/demo_gridspec06.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/pgf_preamble_sgskip.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/pgf_texsystem.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/simple_annotate01.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/simple_legend01.html"
+},
+{
+    "gallery_example_url_link": "https://matplotlib.org/stable/gallery/userdemo/simple_legend02.html"
+}
+]
