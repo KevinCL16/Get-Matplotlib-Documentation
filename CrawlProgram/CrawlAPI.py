@@ -7,8 +7,8 @@ link_file_path = '../crawled_links/crawled_api_reference_links.json'
 with open(link_file_path, 'r') as json_file:
     link = json.load(json_file)
 
-i, idx = 210, 0
-for entry in link[i:310]:
+i, idx = 409, 0
+for entry in link[i:410]:
     url = entry['url']
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -136,7 +136,7 @@ for entry in link[i:310]:
                 'method text': item.contents[3].text
             }
             method_text.append(class_dict)
-            class_text = {'class method': method_text}
+            class_text = [{'class method': method_text}]
 
         elif item.attrs['class'][1] == 'property':
             class_dict = {
@@ -144,7 +144,7 @@ for entry in link[i:310]:
                 'property text': item.contents[3].text
             }
             property_text.append(class_dict)
-            class_text = {'class property': property_text}
+            class_text = [{'class property': property_text}]
 
         elif item.attrs['class'][1] == 'attribute':
             class_dict = {
@@ -152,7 +152,7 @@ for entry in link[i:310]:
                 'attribute text': item.contents[3].text
             }
             attribute_text.append(class_dict)
-            class_text = {'class attribute': attribute_text}
+            class_text = [{'class attribute': attribute_text}]
 
     # Storing the scraped data in a dictionary
     data = {
