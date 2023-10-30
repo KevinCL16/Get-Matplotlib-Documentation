@@ -1,37 +1,23 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.collections as collections
 
-# Sample data for boxplots
-data = [np.random.normal(0, 1, 100),
-        np.random.normal(0, 2, 100),
-        np.random.normal(0, 1, 100),
-        np.random.normal(0, 3, 100)]
 
-# Custom styles for boxplots
-boxprops = dict(linestyle='--', linewidth=2, color='blue')
-medianprops = dict(linestyle='-', linewidth=2, color='orange')
-whiskerprops = dict(linestyle='-', linewidth=2, color='green')
+x = np.linspace(0, 3 * np.pi, 500)
+y = np.sin(x)
 
-# Create a figure and axes
-fig, ax = plt.subplots()
+# Compute the first numerical derivative
+dydx = np.cos(0.5 * (x[:-1] + x[1:]))
 
-# Create boxplots with customization
-boxplot = ax.boxplot(data,
-                     vert=True,  # Vertical orientation
-                     patch_artist=True,  # Fill with color
-                     showmeans=True,  # Show mean values
-                     boxprops=boxprops,  # Custom box style
-                     medianprops=medianprops,  # Custom median style
-                     whiskerprops=whiskerprops)  # Custom whisker style
+# Build a line collection, including the vector in the z direction
+verts = np.array([x, y]).T.reshape(-1, 1, 2)
+segments = np.concatenate([verts[:-1], verts[1:]], axis=1)
 
-# Customize labels and title
-ax.set_xticklabels(['A', 'B', 'C', 'D'])
-ax.set_title('Customized Boxplots')
+fig, ax = plt.subplots(figsize=(7, 4))
+ax.add_collection(collections.LineCollection(segments, array=dydx, cmap='coolwarm', norm=plt.Normalize(dydx.min(), dydx.max()),
+                  lw=3, alpha=0.7))
+ax.autoscale()
+fig.colorbar(ax.collections[0], ax=ax)
+ax.set_title('Line Collection with colormap')
 
-# Customize colors
-colors = ['red', 'blue', 'green', 'purple']
-for patch, color in zip(boxplot['boxes'], colors):
-    patch.set_facecolor(color)
-
-# Show the plot
 plt.show()
