@@ -63,5 +63,5 @@ def flatten_module(data):
 flattened_data = flatten_module(data)
 
 # Saving the flattened data to a JSON file
-with open('flattened_data.json', 'w') as f:
+with open('flattened_API_reference.json', 'w') as f:
     json.dump(flattened_data, f, indent=4)
