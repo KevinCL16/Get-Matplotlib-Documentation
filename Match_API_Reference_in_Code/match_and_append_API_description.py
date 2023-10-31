@@ -47,17 +47,18 @@ def find_string_info(search_strings, data):
     return results
 
 
-code_file = []
+# code_file = []
 # Provided code
-with open('fliter_code_2lib.jsonl', 'r', encoding='utf8') as f:
-    for line in f:
+with open('../crawled_examples/Annotated_gallery_examples_1_code_block.json', 'r', encoding='utf8') as f:
+    '''for line in f:
         code_line = json.loads(line)
-        code_file.append(code_line)
+        code_file.append(code_line)'''
+    code_file = json.load(f)
 
 filtered_API_doc_appended_code = []
 for code_dict in tqdm(code_file):
     # Parse the provided code using ast to extract all the method calls.
-    tree = ast.parse(code_dict['output'])
+    tree = ast.parse(code_dict['code'])
     visitor = MethodVisitor()
     visitor.visit(tree)
 
@@ -68,11 +69,12 @@ for code_dict in tqdm(code_file):
     extracted_info = find_string_info(called_methods, data)
     if 'show' in extracted_info:
         filtered_API_doc_appended_code.append({
-            'code': code_dict['output'],
+            'instruction': code_dict['instruction_annotation'],
+            'code': code_dict['code'],
             'API info': extracted_info,
         })
 
-with open('filtered_code_2lib_with_API_doc.json', 'w') as f:
+with open('annotated_gallery_code_with_API_doc.json', 'w') as f:
     json.dump(filtered_API_doc_appended_code, f, indent=4)
 
 '''for string, info in extracted_info.items():
