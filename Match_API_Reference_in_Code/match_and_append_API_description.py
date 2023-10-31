@@ -35,21 +35,23 @@ def find_string_info(search_strings, data):
     results = {}
 
     for search_string in search_strings:
+        same_name_api = []
         for item in data:
             for key, value in item.items():
                 if value == search_string:
-                    results[search_string] = {
+                    same_name_api.append({
                         "API name": item['name'],
                         "API description": item['text']
-                    }
-                    break
+                    })
+                    results[search_string] = same_name_api
+                    # break
 
     return results
 
 
 # code_file = []
 # Provided code
-with open('../crawled_examples/Annotated_gallery_examples_1_code_block.json', 'r', encoding='utf8') as f:
+with open('../crawled_examples/Annotated_gallery_examples_1_code_block_better_quality.json', 'r', encoding='utf8') as f:
     '''for line in f:
         code_line = json.loads(line)
         code_file.append(code_line)'''

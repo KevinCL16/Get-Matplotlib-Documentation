@@ -11,7 +11,7 @@ def flatten_module(data):
         for cls in data_item.get('class', []):
             if cls.get('class name', []):
                 cls_name = cls['class name'].replace('class ', '')
-                leaf_cls_name = cls_name.split('.')[-1].split('(')[0]
+                leaf_cls_name = cls_name.split('(')[0].split('.')[-1]
                 flattened.append({
                     'name': cls_name,
                     'leaf_class_name': leaf_cls_name,
@@ -21,7 +21,7 @@ def flatten_module(data):
             for method in cls.get('class method', []):
                 method_name = method['method name']
                 full_name = f"{class_name}.{method_name}"
-                leaf_method_name = full_name.split('.')[-1].split('(')[0]
+                leaf_method_name = full_name.split('(')[0].split('.')[-1]
                 flattened.append({
                     'name': full_name,
                     'leaf_method_name': leaf_method_name,
@@ -32,7 +32,7 @@ def flatten_module(data):
             for prop in cls.get('class property', []):
                 prop_name = prop['property name'].replace('property ', '').strip('#')
                 full_name = f"{class_name}.{prop_name}"
-                leaf_property_name = full_name.split('.')[-1].split('(')[0]
+                leaf_property_name = full_name.split('(')[0].split('.')[-1]
                 flattened.append({
                     'name': full_name,
                     'leaf_property_name': leaf_property_name,
@@ -42,7 +42,7 @@ def flatten_module(data):
             for attr in cls.get('class attribute', []):
                 attr_name = attr['attribute name']
                 full_name = f"{class_name}.{attr_name}"
-                leaf_attribute_name = full_name.split('.')[-1].split('(')[0]
+                leaf_attribute_name = full_name.split('(')[0].split('.')[-1]
                 flattened.append({
                     'name': full_name,
                     'leaf_attribute_name': leaf_attribute_name,
@@ -52,7 +52,7 @@ def flatten_module(data):
         for func in data_item.get('function', []):
             func_name = func['function name']
             full_name = f"{func_name}"
-            leaf_function_name = full_name.split('.')[-1].split('(')[0]
+            leaf_function_name = full_name.split('(')[0].split('.')[-1]
             flattened.append({
                 'name': full_name,
                 'leaf_function_name': leaf_function_name,
@@ -62,7 +62,7 @@ def flatten_module(data):
         for exc in data_item.get('exception', []):
             exc_name = exc['exception name']
             full_name = f"{exc_name}"
-            leaf_exception_name = full_name.split('.')[-1].split('(')[0]
+            leaf_exception_name = full_name.split('(')[0].split('.')[-1]
             flattened.append({
                 'name': full_name,
                 'leaf_exception_name': leaf_exception_name,
